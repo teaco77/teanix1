@@ -1,3 +1,3 @@
 jjjj
 jjjjyy
-20210211Creating a new branch is quick & simple
+20210211Creating a new branch is quick

@@ -1,2 +1,1 @@
-jjjj
-jjjjyy
+this is my first git program
